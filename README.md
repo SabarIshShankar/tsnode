@@ -1,2 +1,0 @@
-# tsnode
-Created with CodeSandbox
